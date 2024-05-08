@@ -1,0 +1,21 @@
+.nav{
+    padding:10px 50px;
+    display: flex;
+    justify-content: space-between;
+
+    img{
+        height: 50px;
+        width: 250px;
+    }
+
+    button{
+        background-color: #909090;
+        border: none;
+        padding: 5px 55px;
+        border-radius: 25px;
+        cursor: pointer;
+        color: white;
+        font-size: 18px;
+    }
+
+}
